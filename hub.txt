@@ -1,0 +1,5 @@
+hub carbone 
+shortLabel Carbone Hub
+longLabel Test hub for carbone lab 
+genomesFile genomes.txt
+email vancampe@ohsu.edu  
