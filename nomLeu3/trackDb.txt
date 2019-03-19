@@ -1,0 +1,6 @@
+track vok-H3K27ac-CHIP 
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/Vok.H3K27ac.ChIP-a.30qual-filter.sorted.bam 
+shortLabel vok-H3K27ac-CHIP
+longLabel Bam file for Vok-H3K27ac-CHIP
+type bam 
+visibility dense
