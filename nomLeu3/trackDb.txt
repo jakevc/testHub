@@ -9,12 +9,14 @@ track hyper_dmrs
 bigDataUrl https://de.cyverse.org/dl/d/84A9633A-7837-409C-9615-5F611ACFEDF2/hyper_dmrs.sorted.bb
 shortLabel hyper_tumor_dmrs
 longLabel Hyper DMRs q<0.01, 25% diff
+color 255,0,0
 type bigBed
 visibility pack
 
 track hypo_dmrs
 bigDataUrl https://de.cyverse.org/dl/d/2FD34AC4-03F3-4043-8519-D8D5B135F427/hypo_dmrs.sorted.bb
-shortLabel hyper_tumor_dmrs
-longLabel Hyper DMRs q<0.01, 25% diff
+shortLabel hypo_tumor_dmrs
+longLabel Hypo DMRs q<0.01, 25% diff
+color 0,0,255
 type bigBed
 visibility pack
