@@ -3,3 +3,4 @@ trackDb hg19/trackDb.txt
 
 genome nomLeu3
 trackDb nomLeu3/trackDb.txt
+ideogram 1
