@@ -15,9 +15,10 @@ type bigBed
 visibility dense 
 
 track tumor_copy_number_segments
-bigDataUrl https://de.cyverse.org/dl/d/474FB9BC-8B5A-4DEC-8A12-06E46DCCE1ED/tumor-copynumber-segments.bb 
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/tumor-copynumber-segments-rgb.bb 
 shortLabel copynumber_segments
 longLabel gibbon tumor copynumber segments
 type bigBed
 visibility pack 
 labelFields name
+itemRgb On
