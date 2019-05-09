@@ -18,7 +18,7 @@ track tumor_copy_number_segments
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/tumor-copynumber-segments-rgb.bb 
 shortLabel copynumber_segments
 longLabel gibbon tumor copynumber segments
-type bigBed9
+type bigBed 9
 visibility pack 
 labelFields name
 itemRgb on 
