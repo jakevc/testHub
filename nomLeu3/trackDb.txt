@@ -21,4 +21,4 @@ longLabel gibbon tumor copynumber segments
 type bigBed
 visibility pack 
 labelFields name
-itemRgb="On" 
+itemRgb on 
