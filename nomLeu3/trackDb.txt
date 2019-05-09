@@ -14,11 +14,21 @@ color 0,0,255
 type bigBed
 visibility dense 
 
-track tumor_copy_number_segments
-bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/tumor-copynumber-segments-rgb.bb 
-shortLabel copynumber_segments
-longLabel gibbon tumor copynumber segments
+track ffpe_copynumber_segments
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/ffpe-copynumber-segments-rgb.sorted.bb 
+shortLabel ffpe
+longLabel gibbon tumor copynumber segments (ffpe tumor)
 type bigBed 9 .
 visibility pack 
 labelFields name
-itemRgb on 
+itemRgb On 
+ 
+track postrad_copynumber_segments
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/postrad-copynumber-segments-rgb.sorted.bb 
+shortLabel postrad
+longLabel gibbon tumor copynumber segments (postradiation tumor)
+type bigBed 9 .
+visibility pack 
+labelFields name
+itemRgb On 
+
