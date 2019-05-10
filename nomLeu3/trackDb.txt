@@ -32,3 +32,19 @@ visibility pack
 labelFields name
 itemRgb On 
 
+track postrad_strelka_VEP
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/postrad_tumor_VEP_UCSC.vcf.gz 
+bigDataIndex https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/postrad_tumor_VEP_UCSC.vcf.gz.tbi 
+shortLabel postradVEP
+longLabel variant effect predictions (posradiation tumor)
+type vcfTabix
+visibility dense
+
+track ffpe_strelka_VEP
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/ffpe_tumor_VEP_UCSC.vcf.gz  
+bigDataIndex https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/ffpe_tumor_VEP_UCSC.vcf.gz.tbi 
+shortLabel ffpeVEP
+longLabel variant effect predictions (ffpe tumor)
+type vcfTabix
+visibility dense
+
