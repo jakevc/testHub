@@ -16,7 +16,7 @@ visibility dense
 
 track ffpe_copynumber_segments
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/ffpe-copynumber-segments-rgb.sorted.bb 
-shortLabel ffpe
+shortLabel ffpe_cn
 longLabel gibbon tumor copynumber segments (ffpe tumor)
 type bigBed 9 .
 visibility pack 
@@ -25,7 +25,7 @@ itemRgb On
  
 track postrad_copynumber_segments
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/jakevc/tracks/postrad-copynumber-segments-rgb.sorted.bb 
-shortLabel postrad
+shortLabel postrad_cn
 longLabel gibbon tumor copynumber segments (postradiation tumor)
 type bigBed 9 .
 visibility pack 
